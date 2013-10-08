@@ -1,0 +1,9 @@
+(1
+ (xproc-mode .
+			 [(1 0 0 -3 1)
+			  ((auto-complete
+				(0))
+			   (auto-complete-nxml
+				(0)))
+			  "XProc mode for GNU Emacs" tar]))
+
